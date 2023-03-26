@@ -11,6 +11,6 @@ def triangle_type ():
         else:
             print('Равнобедренный треугольник')
     else:
-        print('Ты долбаеб')
+        print('Ты долбаеб, такого не существует')
 
 triangle_type()
