@@ -10,6 +10,6 @@ def get_perfect_weight ():
     if perfect_weight < 0:
         print (name + ', ваш вес уже оптимальный')
     else:
-        print (name + ', ваш идеальный вес составляет ' + str(int(perfect_weight)) + ' кг')
+        print (name + ', ваш идеальный вес составляет ' + str(int(perfect_weight)) + ' кг.')
 
 get_perfect_weight()
