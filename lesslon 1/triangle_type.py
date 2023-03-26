@@ -1,3 +1,4 @@
+print('Введите 3 числа')
 def triangle_type ():
     a = int(input())
     b = int(input())
